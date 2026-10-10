@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/aio-libs/frozenlist/commit/fd523c1768feb1763166c210f5f469fdbc31b741",
       "git:hexsha": "fd523c1768feb1763166c210f5f469fdbc31b741",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-10T16:06:55.961327+00:00"
     },
     {
       "@id": "https://repolex.ai/r/aio-libs/frozenlist/commit/d93b82b4fd56c18af1f2133d3aba191876c69e32",
