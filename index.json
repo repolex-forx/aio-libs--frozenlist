@@ -1,0 +1,11 @@
+{
+  "org": "aio-libs",
+  "repo": "frozenlist",
+  "versions": [
+    {
+      "commit": "fd523c1768feb1763166c210f5f469fdbc31b741",
+      "tag": "",
+      "parsed_at": "2026-10-10T16:06:55.961888+00:00"
+    }
+  ]
+}
